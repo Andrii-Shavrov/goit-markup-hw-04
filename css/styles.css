@@ -37,7 +37,6 @@ img {
 }
 .flex {
   display: flex;
-  align-items: baseline;
 }
 .section {
   padding-top: 94px;
@@ -541,7 +540,7 @@ body {
   padding-bottom: 60px;
   background-color: var(--footer-background-color);
 }
-.footer .container {
+.footer .contanier {
   align-items: baseline;
 }
 .logo-link-footer {
